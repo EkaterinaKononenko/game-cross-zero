@@ -30,7 +30,7 @@
 }
 
 .cell:hover {
-  background-color: antiquewhite;
+  background-color: rgb(178, 241, 134);
 }
 
 .currentPlayer {
